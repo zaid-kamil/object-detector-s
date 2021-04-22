@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "733578084294",
+    "project_id": "object-detector-abee2",
+    "storage_bucket": "object-detector-abee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733578084294:android:7d36c1dfa631d32cbf3cc7",
+        "android_client_info": {
+          "package_name": "com.digipodium.www.objectdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733578084294-g2a8v0tjuq387r7u9f8p72fokoh3dsmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKL8WSYYsa0zjZLDPsYyBhsWQCFAZfG2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733578084294-g2a8v0tjuq387r7u9f8p72fokoh3dsmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
